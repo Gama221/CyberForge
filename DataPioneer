@@ -1,4 +1,4 @@
-import numpy as np #
+import numpy as np #1
 
 data = [1, 2, 3, 4, 5]
 mean = np.mean(data)
